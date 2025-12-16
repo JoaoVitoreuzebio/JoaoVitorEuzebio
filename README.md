@@ -61,19 +61,20 @@ Estudante do último semestre de **Engenharia da Computação** na Universidade 
 
 ---
 
-### 📊 Métricas & Dashboard
+### 📊 Métricas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitoreuzebio&theme=dark&background=0D2538&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&dates=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br&hide_border=true)](https://github.com/joaovitoreuzebio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br&hide_border=true)](https://github.com/joaovitoreuzebio)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/joaovitoreuzebio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br&hide_border=true"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br&hide_border=true"/>
+
   </a>
 </div>
 
