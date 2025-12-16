@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="caminho/para/seu/banner-azul-marinho-branco.png" width="100%" alt="Banner de Ondas Azul Marinho e Branco" />
+  <img src="./github-header-banner.png" width="100%" alt="Banner Olá Eu sou o João" />
 </div>
 
+<h1 align="center">João Vitor Euzebio</h1>
 <h3 align="center">
-  Desenvolvedor [Sua Especialidade, ex: Front-end / Back-end / Full Stack]
+  Estudante de Engenharia da Computação | Foco em Engenharia de Dados
 </h3>
 
 <p align="center">
-  <em>"Sua frase ou citação favorita sobre tecnologia ou desenvolvimento aqui."</em>
+  <em>"Transformando dados em soluções e linhas de código em inovação."</em>
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[SEU-LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/joaovitoreuzebio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D2538?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[SEU-EMAIL]" target="_blank">
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0D2538?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
@@ -23,50 +24,42 @@
 
 ### 👨‍💻 Sobre Mim
 
-Aqui você coloca um breve resumo sobre quem você é, sua experiência e o que está buscando.
+Sou estudante do último semestre de **Engenharia da Computação** na Universidade São Judas Tadeu, apaixonado por tecnologia e resolução de problemas. Tenho experiência prática com eletrônica e estou direcionando minha carreira para a área de **Dados e Desenvolvimento**.
 
-* 🔭 Atualmente estou trabalhando em **[Nome do Projeto ou Empresa]**
-* 🌱 Estou aprendendo **[Tecnologia que está estudando]**
-* 🎯 Meus objetivos são **[Seus objetivos profissionais]**
-* ⚡ Curiosidade: **[Um fato divertido sobre você]**
+* 🔭 Atualmente estou focado em projetos de **Data Science e Engenharia de Dados**.
+* 🎓 Formação técnica em **Eletrônica** pelo SENAI.
+* 🚀 Busco oportunidades para aplicar meus conhecimentos em **Python, SQL e Cloud**.
+* ⚡ Interesses: Automação, IoT e Análise de Dados.
 
 ---
 
-### 🚀 Habilidades & Tecnologias
+### 🚀 Stack Tecnológico
 
 <div align="left">
-  <h4>Linguagens</h4>
-  <img src="https://img.shields.io/badge/-JavaScript-0D2538?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Python-0D2538?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Java-0D2538?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-
-  <h4>Front-end</h4>
-  <img src="https://img.shields.io/badge/-HTML5-0D2538?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-0D2538?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-React-0D2538?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-
-  <h4>Back-end & Banco de Dados</h4>
-  <img src="https://img.shields.io/badge/-Node.js-0D2538?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-0D2538?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-SQL-0D2538?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-C++-0D2538?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   
-  <h4>Ferramentas</h4>
   <img src="https://img.shields.io/badge/-Git-0D2538?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Docker-0D2538?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-SQL_Server-0D2538?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/-Pandas-0D2538?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  
+  <img src="https://img.shields.io/badge/-Arduino-0D2538?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/-Linux-0D2538?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/[SEU USUARIO DO GITHUB]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU USUARIO DO GITHUB]&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU USUARIO DO GITHUB]&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br"/>
+  <a href="https://github.com/joaovitoreuzebio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <small>Feito com 💙 e café por <a href="https://github.com/[SEU USUARIO DO GITHUB]">[SEU NOME]</a>.</small>
-</div>
+  <small>Feito por <a href="https://github.com/joaovitoreuzebio">João Vitor Euzebio
