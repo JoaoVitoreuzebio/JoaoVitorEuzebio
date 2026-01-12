@@ -64,11 +64,8 @@
 ### 📊 Métricas
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br&hide_border=true)](https://github.com/joaovitoreuzebio)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br&hide_border=true)](https://github.com/joaovitoreuzebio)
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoVitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
