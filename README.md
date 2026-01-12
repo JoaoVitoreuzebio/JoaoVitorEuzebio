@@ -29,11 +29,11 @@
 
 ### 👨‍💻 Perfil Profissional
 
-Estudante do último semestre de **Engenharia da Computação** na Universidade São Judas Tadeu, com forte base técnica em eletrônica e transição consolidada para a área de software. Meu foco é o **Backend** e a **Engenharia de Dados**, criando arquiteturas que suportam o fluxo de informação eficiente.
+**Engenheiro da Computação graduado** pela Universidade São Judas Tadeu, com sólida base técnica em eletrônica e atuação direcionada para a área de software e dados. Combino a lógica de engenharia com a prática de desenvolvimento para criar arquiteturas que suportam fluxos de informação eficientes e escaláveis.
 
-* 🔭 **Foco Atual:** Desenvolvimento de ETLs, modelagem de Banco de Dados e APIs robustas.
-* 🎓 **Background:** Técnico em Eletrônica (SENAI) + Engenharia da Computação.
-* 🛠️ **Abordagem:** Gosto de entender como as coisas funcionam "por baixo do capô", do hardware ao deploy.
+* 🔭 **Foco de Atuação:** Desenvolvimento de ETLs, modelagem de Banco de Dados (SQL) e construção de APIs robustas.
+* 🎓 **Formação:** Engenheiro da Computação (USJT) + Técnico em Eletrônica (SENAI).
+* 🛠️ **Diferencial:** Visão sistêmica completa ("Full-cycle"), compreendendo a tecnologia desde o funcionamento do hardware ("por baixo do capô") até o deploy da aplicação.
 
 ---
 
@@ -42,20 +42,20 @@ Estudante do último semestre de **Engenharia da Computação** na Universidade 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-0D2538?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-0D2538?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-0D2538?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  
-  <br>
-
   <img src="https://img.shields.io/badge/SQL_Server-0D2538?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D2538?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/AWS-0D2538?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Pandas-0D2538?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Git-0D2538?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
   <br>
   
-  <img src="https://img.shields.io/badge/Git-0D2538?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-0D2538?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-0D2538?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-0D2538?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
 </div>
 
@@ -69,13 +69,6 @@ Estudante do último semestre de **Engenharia da Computação** na Universidade 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoreuzebio&layout=compact&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&border_color=0D2538&locale=pt-br&hide_border=true)](https://github.com/joaovitoreuzebio)
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/joaovitoreuzebio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitoreuzebio&show_icons=true&theme=transparent&bg_color=0D2538&title_color=ffffff&text_color=ffffff&icon_color=61DAFB&border_color=0D2538&locale=pt-br&hide_border=true"/>
-
-  </a>
 </div>
 
 ---
